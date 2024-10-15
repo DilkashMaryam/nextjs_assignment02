@@ -1,0 +1,18 @@
+.hero{
+    background-color: blueviolet;
+    height: 300px;
+}
+.heading{
+    color:gold;
+    text-decoration: double;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.para{
+    color: black;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    font-size:xx-large;
+}

@@ -1,0 +1,29 @@
+.head{
+    background-color:indianred;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.logo{
+    color:yellow;
+    text-decoration: double;
+    margin-left: 0px;
+    align-items: center;
+    display: flex;
+    font-size: x-large;
+}
+.menu{
+    color:white;
+    text-decoration: underline;
+    font-size: 1.2em;
+    justify-content: center;
+    display: inline-block;
+    padding: 10px;
+
+}
+.menu a:hover {
+    background: antiquewhite;
+    color: black;
+    border-radius: 5px;
+}

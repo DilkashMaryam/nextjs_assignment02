@@ -1,0 +1,29 @@
+.foot{
+    background-color: gold;
+    height: 300px;
+}
+.heading{
+    color: black;
+    text-decoration: double;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.menu{
+    color: darkred;
+    text-align: center;
+    font-size: medium;
+    justify-content: center;
+    margin-top: 100px;
+}
+.cp{
+    background-color: rgb(43, 37, 37);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin-top: 90px;
+}
+.menu li:hover{
+    background-color:white;
+}

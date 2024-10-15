@@ -1,0 +1,15 @@
+
+.para{
+    background-color: rgb(201, 198, 198);
+    border: 5px solid black;
+    color: rgb(36, 3, 51);
+    padding: 10px;
+    border-radius: 25px;
+}
+.header{
+    color: aqua;
+    background-color: cadetblue;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+}
