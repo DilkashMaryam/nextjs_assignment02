@@ -1,4 +1,4 @@
-import styles from "../about/about.module.css"
+import styles from "./about.module.css";
 import Link from 'next/link'
 import React from 'react'
 
