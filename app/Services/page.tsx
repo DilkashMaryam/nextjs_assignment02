@@ -1,4 +1,4 @@
-import style from "../Services/services.module.css"
+import style from "./services.module.css";
 import Link from 'next/link'
 import React from 'react'
 
